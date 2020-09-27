@@ -1,0 +1,25 @@
+     Income  Education
+     20.5    12
+     31.5    16
+     47.7    18
+     26.2    16
+     44.0    12
+     8.28    12
+     30.8    16
+     17.2    12
+     19.9    10
+     9.96    12
+     55.8    16
+     25.2    20
+     29.0    12
+     85.5    16
+     15.1    10
+     28.5    18
+     21.4    16
+     17.7    20
+     6.42    12
+     84.9    16
+/*
+Hypothetical Data of Income (in thousands) and Education (in years)
+Source: Greene [1997], Chapter 4, Table 4.1
+*/
