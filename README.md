@@ -1,2 +1,5 @@
-# EDA
- Econometric and Data Analysis by Examples Using R and Python
+# Econometric and Data Analysis by Examples using R and Python
+
+This project is based on the book *Computational Econometrics: GAUSS Programming for Econometricians and Financial Analysts* (by Kuan-Pin Lin, ETEXT Textbook Publishing, 2001). Now, all the examples are converted from Gauss to R and Python taking advantage of these open source language software and packages. We recommend using *RStudio* with R and *Spyder* with Python.
+
+This book project provides a hands-on approach to econometric modeling and data analysis using R and/or Python. It is aimed at students, reserchers, and professionals, with some prior knowledge of economics and statistics, who want to increase their econometrics vocabulary while learning a freely available yet powerful computer language. Programming experience is not assumed but will be gained by working on more than 70 examples of basic econometric modeling and analysis. For each example, the codes can be viewed and downloaded with the references to the data file(s) and the R and Python package(s) in use. The document of the book chapters can be found in the GAUSS book.
